@@ -52,6 +52,7 @@ more: new formats plug into the platform without changing its import pipeline.
 | <img src="images/rulezet-sample-rules-icon.png" width="44" alt=""> | [**rulezet-sample-rules**](https://github.com/rulezet/rulezet-sample-rules) | Ready-to-import rules in multiple formats for workshops, CTFs and training sessions. |
 | <img src="images/rulezet-workshop-icon.png" width="44" alt=""> | [**rulezet-workshop**](https://github.com/rulezet/rulezet-workshop) | Workshop materials: slide deck, hands-on exercises and demo resources. |
 | <img src="images/rulezet-scripts-icon.png" width="44" alt=""> | [**rulezet-scripts**](https://github.com/rulezet/rulezet-scripts) | Scripts to work with rulezet.org from the command line. |
+| <img src="images/rulezet-ai-skill-icon.png" width="44" alt=""> | [**rulezet-ai-skill**](https://github.com/rulezet/rulezet-ai-skill) | AI agent skill to develop on Rulezet: architecture, conventions, permissions, settings, tests and workflow. |
 
 ## Get involved
 
